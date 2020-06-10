@@ -1,2 +1,2 @@
 # URI-KNOWLEDGE
-Exercícios desenvolvidos no URI, em C
+Exercícios desenvolvidos no URI, em C.
